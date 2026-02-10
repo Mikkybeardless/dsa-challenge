@@ -25,7 +25,7 @@ A dedicated challenge to sharpen my problem-solving skills, optimize code effici
 ### 1.Clone the repository:\*\*
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Mikkybeardless/dsa-challenge.git
 cd dsa-challenges
 ```
 
