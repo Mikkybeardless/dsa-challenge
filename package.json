@@ -1,0 +1,23 @@
+{
+  "name": "dsa-challenges",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "build": "tsc",
+    "dev": "vitest --watch",
+    "start": "ts-node-esm src/index.ts"
+  },
+  "keywords": [],
+  "author": "Igashi",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@vitest/ui": "^4.0.18",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.18"
+  }
+}
