@@ -13,10 +13,10 @@ A dedicated challenge to sharpen my problem-solving skills, optimize code effici
 
 ## 📈 Progress Tracker
 
-| Day | Challenge                                         | Topic              | Complexity                 | Solution                               |
-| :-- | :------------------------------------------------ | :----------------- | :------------------------- | :------------------------------------- |
-| 01  | [Two Sum](https://leetcode.com/problems/two-sum/) | Hash Maps / Arrays | $O(n)$ Time / $O(n)$ Space | [View](./src/day1-two-sum/solution.ts) |
-| 02  | [Coming Soon...]                                  | -                  | -                          | -                                      |
+| Day | Challenge                                                           | Topic                          | Complexity                 | Solution                                  |
+| :-- | :------------------------------------------------------------------ | :----------------------------- | :------------------------- | :---------------------------------------- |
+| 01  | [Two Sum](https://leetcode.com/problems/two-sum/)                   | Hash Maps / Arrays             | $O(n)$ Time / $O(n)$ Space | [View](./src/day1-two-sum/solution.ts)    |
+| 02  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Two-Pointers / Arrays, Strings | $O(n)$ Time / O(1) Space   | [View](./src/day2-palindrome/solution.ts) |
 
 ---
 
