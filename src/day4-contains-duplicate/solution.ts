@@ -5,7 +5,6 @@
 
 export function containsDuplicate(nums: number[]) {
   const seen = new Set<number>();
-
   for (const num of nums) {
     if (seen.has(num)) {
       return true;
@@ -14,3 +13,8 @@ export function containsDuplicate(nums: number[]) {
   }
   return false;
 }
+
+// shorter solution
+export const containsDuplicate2 = (nums: number[]): boolean => {
+  return new Set(nums).size !== nums.length;
+};
