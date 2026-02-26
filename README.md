@@ -23,6 +23,7 @@ A dedicated challenge to sharpen my problem-solving skills, optimize code effici
 | 06  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                        | Stack (LIFO)                     | $O(n) Time / O(n)Space     | [view](./src/day6-valid-parentheses/solution.ts)    |
 | 07  | [Reversed LinkedList](https://leetcode.com/problems/reverse-linked-list/)                                    | Pointers and Nodes/ Linked Lists | $O(n) Time / O(1)Space     | [view](./src/day7-reversed-linked-list/solution.ts) |
 | 08  | [Length of longest Substring](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Dynamic Sliding Window           | $O(n) Time / O(n^2)Space   | [view](./src/day8-longest-substring/solution.ts)    |
+| 09  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                  | Prefix/Suffix Arrays             | $O(n) Time / O(1)Space     | [view](./src/day9-product-except-self/solution.ts)  |
 
 ---
 
