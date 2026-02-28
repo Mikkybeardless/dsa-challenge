@@ -17,7 +17,7 @@ export function binarySearch(nums: number[], target: number) {
       return mid;
     }
 
-    if (nums[mid] < target) {
+    if (target > nums[mid]) {
       left = mid + 1;
     } else {
       right = mid - 1;
