@@ -27,6 +27,7 @@ A dedicated challenge to sharpen my problem-solving skills, optimize code effici
 | 10  | [Binary Search](https://leetcode.com/problems/binary-search)                                                 | The Power of $O(\log n)$         | $O(\log n) Time/O(1) Space | [view](./src/day10-binary-search/solution.ts)             |
 | 11  | [Search in a Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)            | Arrays                           | $O(n) Time / O(1) Space    | [view](./src/day11-rotated-sorted-array/solution.ts)      |
 | 12  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)                         | Maximizing constraints           | $O(n) Time / O(1)Space     | [view](./src/day12-container-with-most-water/solution.ts) |
+| 13  | [Three Sum](https://leetcode.com/problems/3sum/)                                                             | Sorting + Two Pointers           | $O(n^2) Time / O(1)        | [view](./src/day13-three-sum/solution.ts)                 |
 
 ---
 
