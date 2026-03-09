@@ -14,7 +14,7 @@ A dedicated challenge to sharpen my problem-solving skills, optimize code effici
 ## 📈 Progress Tracker
 
 | Day | Challenge                                                                                                    | Topic                            | Complexity                 | Solution                                                  |
-| :-- | :----------------------------------------------------------------------------------------------------------- | :------------------------------- | :------------------------- | :-------------------------------------------------------- | ---------------------------------------------- |
+| :-- | :----------------------------------------------------------------------------------------------------------- | :------------------------------- | :------------------------- | :-------------------------------------------------------- |
 | 01  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                            | Hash Maps / Arrays               | $O(n)$ Time / $O(n)$ Space | [View](./src/day1-two-sum/solution.ts)                    |
 | 02  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                          | Two-Pointers / Arrays, Strings   | $O(n)$ Time / O(1) Space   | [View](./src/day2-palindrome/solution.ts)                 |
 | 03  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)            | Sliding Window / Arrays          | $O(n)$ Time / O(1) Space   | [view](./src/day3-stock-prices/solution.ts)               |
@@ -28,7 +28,7 @@ A dedicated challenge to sharpen my problem-solving skills, optimize code effici
 | 11  | [Search in a Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)            | Arrays                           | $O(n) Time / O(1) Space    | [view](./src/day11-rotated-sorted-array/solution.ts)      |
 | 12  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)                         | Maximizing constraints           | $O(n) Time / O(1)Space     | [view](./src/day12-container-with-most-water/solution.ts) |
 | 13  | [Three Sum](https://leetcode.com/problems/3sum/)                                                             | Sorting + Two Pointers           | $O(n^2) Time / O(1) Space  | [view](./src/day13-three-sum/solution.ts)                 |
-| 14  | [Top K Frequent](https://leetcode.com/problems/top-k-frequent-elements/)                                     | Bucket Sort Optimization         |                            | $O(n) Time / O(n)Space                                    | [view](./src/day14-top-k-frequent/solution.ts) |
+| 14  | [Top K Frequent](https://leetcode.com/problems/top-k-frequent-elements/)                                     | Bucket Sort Optimization         | $O(n) Time / O(n)Space     | [view](./src/day14-top-k-frequent/solution.ts)            |
 
 ---
 
