@@ -29,7 +29,7 @@ A dedicated challenge to sharpen my problem-solving skills, optimize code effici
 | 12  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)                         | Maximizing constraints           | $O(n) Time / O(1)Space                | [view](./src/day12-container-with-most-water/solution.ts) |
 | 13  | [Three Sum](https://leetcode.com/problems/3sum/)                                                             | Sorting + Two Pointers           | $O(n^2) Time / O(1) Space             | [view](./src/day13-three-sum/solution.ts)                 |
 | 14  | [Top K Frequent](https://leetcode.com/problems/top-k-frequent-elements/)                                     | Bucket Sort Optimization         | $O(n) Time / O(n)Space                | [view](./src/day14-top-k-frequent/solution.ts)            |
-| 15  | [Group Anagrams] (https://leetcode.com/problems/group-anagrams/)                                             | Signature Key Pattern            | $O(n _ k log k) Time/ $O(n _ k) Space | [view](./src/day15-group-anagrams/solution.ts)            |
+| 15  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                              | Signature Key Pattern            | $O(n _ k log k) Time/ $O(n _ k) Space | [view](./src/day15-group-anagrams/solution.ts)            |
 
 ---
 
