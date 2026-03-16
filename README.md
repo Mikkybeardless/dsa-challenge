@@ -32,6 +32,7 @@ A dedicated challenge to sharpen my problem-solving skills, optimize code effici
 | 15  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                              | Signature Key Pattern            | $O(n _ k log k) Time/ $O(n _ k) Space     | [view](./src/day15-group-anagrams/solution.ts)               |
 | 16  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)                  | The Hash Set "Start" Check       | $O(n) Time / O(n)Space                    | [view](./src/day16-longest-consecutive-sequence/solution.ts) |
 | 17  | [Minimum Stack](https://leetcode.com/problems/min-stack/)                                                    | $O(1) Time / O(n) Space          | [view](./src/day17-min-stack/solution.ts) |
+| 18  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)           | Execution Stack                  | $O(n) Time / O(n)Space                    | [view](./src/day18-evaluate-rpn/solution.ts)                 |
 
 ---
 
